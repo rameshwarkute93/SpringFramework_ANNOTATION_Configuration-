@@ -7,7 +7,7 @@
    - for main class
    - for Bean/entity
    - for Xml file
-   - for Java file(repository to set value to bean)
+   - for Java file
 # Work Flow :
 - Applicattion Context read Java repository file.
 - In Java repository file , Scan tha Bean Compenent using @ComponentScan("cs.model").
